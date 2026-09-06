@@ -1,4 +1,4 @@
-# MobileLLM
+Lalitasuthimoon9 MobileLLM
 
 This repository contains the training code of MobileLLM introduced in our work: "[MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905)", published in ICML 2024.
 
