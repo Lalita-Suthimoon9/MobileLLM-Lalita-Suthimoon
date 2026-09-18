@@ -1,13 +1,13 @@
 Lalitasuthimoon9 MobileLLM
 
 This repository contains the training code of MobileLLM introduced in our work: "[MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905)", published in ICML 2024.
-
+Lalitasuthimoon9
 In this work, we comprehensively consider multiple design factors to obtain high-quality LLMs with fewer than a billion parameters. We integrated (1) SwiGLU activation function, (2) deep and thin architectures, (3) embedding sharing, (4) grouped-query attention to build MobileLLM. MobileLLM-125M/350M attains a remarkable 2.7%/4.3% accuracy boost over preceding 125M/350M SoTA models on zero-shot commonsense reasoning tasks. In our updated version, we further demonstrate that our design philosophy scales effectively to larger models, with SoTA results for MobileLLM-600M/1B/1.5B.
 
 <div align=center>
 <img width=50% src="./mobilellm.png"/>
 </div>
-
+Lalitasuthimoon9
 ## News
 - Jan 2026: 🔥 [MobileLLM-R1](https://arxiv.org/pdf/2509.24945) has been accepted to ICLR 2026. 
 - Nov 2025: 🌟 [MobileLLM-R1.5](https://huggingface.co/collections/facebook/mobilellm-r15) is released. MobileLLM-R1.5-950M outperforms DeepSeek-R1-Distill-Qwen-1.5B on all evaluated math and coding benchmarks, despite having significantly fewer parameters (0.95B vs. 1.5B).
